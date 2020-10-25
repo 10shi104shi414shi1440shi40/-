@@ -42,7 +42,9 @@ public String toString(){
 课程类中同时定义教师类以串联二者关系。
 # 六、流程图
 ![result]()
-# 七、实验结果
 ![result]()
+# 七、实验结果
+![result](https://github.com/10shi104shi414shi1440shi40/-/blob/main/img/5d65b1a37e3d8bd1f06b0068591252c.png)
+![result](https://github.com/10shi104shi414shi1440shi40/-/blob/main/img/145636e31b81035c5264428724fb70a.png)
 # 八、实验感想
 通过这次实验我学到了许多新的语句用法像toString，super等方法的使用，这些方法的使用在编程中使我们想要做的事情变得简单了许多。学会了让各个类关联起来的解决问题的思想。
