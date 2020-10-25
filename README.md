@@ -41,7 +41,7 @@ public String toString(){
 ···
 课程类中同时定义教师类以串联二者关系。
 # 六、流程图
-![result]()
+![result](https://github.com/10shi104shi414shi1440shi40/-/blob/main/img/2d6aeb3b2febd9cc50c76dffc701d21.png)
 # 七、实验结果
 ![result](https://github.com/10shi104shi414shi1440shi40/-/blob/main/img/5d65b1a37e3d8bd1f06b0068591252c.png)
 ![result](https://github.com/10shi104shi414shi1440shi40/-/blob/main/img/145636e31b81035c5264428724fb70a.png)
